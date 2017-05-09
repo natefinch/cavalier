@@ -3,7 +3,7 @@ Cavalier
 
 Cavalier is a command line interface *generator* for Go applications.  Cavalier
 is not a library like those other CLI packages.  It is an application that
-generates your command line parsing code for you. 
+generates your command line parsing code for you.
 
 Given a list of exported functions, it will create a git-like CLI with
 subcommands, using the function names as the subcommands, the function arguments
