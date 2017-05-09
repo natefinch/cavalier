@@ -7,7 +7,7 @@ generates your command line parsing code for you.
 
 Given a list of exported functions, it will create a git-like CLI with
 subcommands, using the function names as the subcommands, the function arguments
-as the flags and parameters, and the comments as the command's help docs.
+as the flags and parameters, and the comments as the command's help docs.  
 
 For example:
 
